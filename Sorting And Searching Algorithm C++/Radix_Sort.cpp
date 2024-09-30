@@ -52,7 +52,7 @@ void printf(int *arr,int n){
     cout<<endl;
 }
 
-// TIME COMPLEXITY = O(n,k);
+// TIME COMPLEXITY = O(n.k);
 
 
 int main(){
